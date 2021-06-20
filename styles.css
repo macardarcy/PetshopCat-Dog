@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+}
+
+/*Header with Nav*/
+header {
+    margin: 0;
+}
+
+.primer-header {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 10px;
+}
+
+.nav-logo {
+    background-color: #F0A83E;
+    font-family: Roboto, sans-serif;
+}
+
+.huellita {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.color-catdog {
+    color: #ffffff;
+}
+
+/*Main*/
+.main-background {
+    background-image: url(multimedia/imagen-background.png);
+    height: 500px;
+    width: 100%;
+}
+
+h1 {
+    text-align: right;
+}
+
+.titulo-main {
+    background-color: #ffffff;
+    font-family: Roboto, sans-serif;
+}
+
+.subtitulo-main {
+    font-family: Roboto, sans-serif;
+    text-align: right;
+}
+
+.button-main {
+    background-color: #F0A83E;
+    color: #ffffff;
+    font-family: Roboto, sans-serif;
+    position: absolute;
+    right: 0;
+}
+
+/*Products*/
+
+.paw-divisor {
+    align-items: center;
+    margin-left: 670px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+h2 {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+}
+
+.item-products {
+    font-family: Roboto, sans-serif;
+    margin-left: 20px;
+}
+
+.background-products {
+    background-color: #E5E5E5;
+}
+
+.img-products {
+    margin-left: 20px;
+    height: 300px;
+    width: 300px;
+}
+
+/*Footer*/
+.primer-footer {
+    background-color: #F0A83E;
+    color: #ffffff;
+    font-family: Roboto, sans-serif;
+}
+
+.btn-suscribirse {
+    background-color: #3C2313;
+    color: #ffffff;
+    font-family: Roboto, sans-serif;
+}
+
+.segundo-footer {
+    background-color: #3C2313;
+    color: #ffffff;
+    font-family: Roboto, sans-serif;
+}
+
+.size-icon {
+    width: 40px;
+    height: 40px;
+}
+
+.tercer-footer {
+    background-color: black;
+    color: #ffffff;
+    font-family: Roboto, sans-serif;
+}
